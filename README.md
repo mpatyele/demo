@@ -1,4 +1,4 @@
-# Sring boot Demo Application
+# Sring Boot Demo Application
 
 A Spring boot project hello world example with docker to simple
 practice my dev skills
